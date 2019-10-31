@@ -1,0 +1,17 @@
+ru\user\lab04\servletapp\dao\Dao.class
+ru\user\lab04\servletapp\model\Entity.class
+ru\user\lab04\servletapp\model\Group.class
+ru\user\lab04\servletapp\mysql\MySqlConnection.class
+ru\user\lab04\servletapp\servlet\users\DeleteServlet.class
+ru\user\lab04\servletapp\dao\AbstractDAO.class
+ru\user\lab04\servletapp\servlet\groups\EditServlet.class
+ru\user\lab04\servletapp\servlet\IndexServlet.class
+ru\user\lab04\servletapp\mysql\GroupDAO.class
+ru\user\lab04\servletapp\mysql\UserDAO.class
+ru\user\lab04\servletapp\servlet\groups\ShowServlet.class
+ru\user\lab04\servletapp\servlet\users\AddServlet.class
+ru\user\lab04\servletapp\model\User.class
+ru\user\lab04\servletapp\servlet\users\EditServlet.class
+ru\user\lab04\servletapp\servlet\users\ShowServlet.class
+ru\user\lab04\servletapp\servlet\groups\DeleteServlet.class
+ru\user\lab04\servletapp\servlet\groups\AddServlet.class

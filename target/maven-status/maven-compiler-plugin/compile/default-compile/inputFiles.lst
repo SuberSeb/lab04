@@ -1,0 +1,17 @@
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\dao\Dao.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\dao\AbstractDAO.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\users\ShowServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\groups\EditServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\IndexServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\mysql\UserDAO.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\model\Group.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\groups\AddServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\users\EditServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\mysql\MySqlConnection.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\users\DeleteServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\users\AddServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\model\User.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\groups\DeleteServlet.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\model\Entity.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\mysql\GroupDAO.java
+D:\Workspace\projects\lab04\src\main\java\ru\user\lab04\servletapp\servlet\groups\ShowServlet.java
